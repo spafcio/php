@@ -1,0 +1,74 @@
+RiseArticle:
+<?php $is_news = 'true'; $categories = array('plugins', 'errors', 'patches', 'community', 'informations'); ?>
+
+  rise_main_article:
+    category_id:    informations
+    title:          The news of the day!
+    image:          example_image.gif
+    content:        |
+      Ut egestas bibendum adipiscing. Aliquam eu elit sed dolor
+      malesuada tempus id congue turpis. Quisque et ante est.
+      Class aptent taciti sociosqu ad litora torquent per conubia
+      nostra, per inceptos himenaeos. Donec congue, justo vel dapibus
+      imperdiet, metus erat mattis arcu, at consequat diam sapien nec diam.
+      Curabitur aliquam ullamcorper est, non porttitor quam fringilla eu.
+      Duis nec nisi non enim fringilla fermentum at eu enim.
+      Nunc fringilla auctor dolor et vehicula. Suspendisse ac pellentesque augue.
+      Cras justo elit, luctus vitae rhoncus at, pellentesque non magna.
+      Aliquam commodo urna vitae leo fringilla laoreet.
+      Morbi ornare sodales nisl vel sagittis. Vivamus vel mauris at est
+      imperdiet dictum. Suspendisse sem arcu, convallis sit amet sagittis vel,
+      imperdiet et risus. Vivamus eget ipsum at augue ultrices adipiscing
+      ut sed velit. Vivamus quis tempor mi. Mauris bibendum porta sem non cursus.
+      Pellentesque convallis purus at sem congue et volutpat nibh imperdiet.
+      Sed in massa orci, non volutpat nibh. Morbi vulputate quam et nulla ornare cursus. 
+    author:         Administrator
+    is_main_of_day: true
+    is_news:        true
+    is_public:      true
+    token:          <?php echo md5(rand(1111,9999).time())."\n" ?>
+
+<?php foreach($categories as $category): ?>
+  rise_example_main_<?php echo $category ?>:
+    category_id:    <?php echo $category."\n" ?>
+    title:          Example main news of <?php echo $category ?> category
+    content:   |
+      Vivamus commodo tincidunt neque, vitae tincidunt erat posuere vel.
+      Quisque at suscipit augue. In ut tortor sem.
+      Cras sed neque vitae felis porttitor gravida.
+      Curabitur eu massa quis metus commodo fermentum.
+      Suspendisse pellentesque tortor eu ante porttitor suscipit.
+      Pellentesque in pellentesque enim. Quisque velit lacus, tincidunt
+      fringilla vestibulum id, auctor vel dolor. Etiam vitae arcu vitae
+      lacus condimentum vestibulum. Nulla facilisis, neque in ornare euismod,
+      ligula lorem interdum magna, eget placerat leo felis vitae ante.
+      Sed feugiat justo sed nisi mollis ac euismod dolor rutrum.
+      In hac habitasse platea dictumst. Praesent non quam id tortor volutpat laoreet.
+    author:                Administrator
+    is_main_of_category:   true
+    is_news:               true
+    is_public:             true
+    token:                 <?php echo md5(rand(1111,9999).time())."\n" ?>
+<?php endforeach; ?>
+
+<?php foreach($categories as $category): ?>
+<?php for($i = 1; $i <= 5; $i++): ?>
+  rise_example_<?php echo $category ?>_<?php echo $i ?>:
+    category_id:     <?php echo $category."\n" ?>
+    title:           Example article <?php echo $i.' of '.$category ?> category
+    content:   |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Aliquam elementum pretium magna eu lobortis.
+      Vivamus a quam quis metus accumsan lobortis.
+      Vestibulum pellentesque orci nec turpis malesuada at viverra urna dictum.
+      Etiam rhoncus volutpat ipsum, eu vehicula leo porttitor sit amet.
+      Curabitur in tellus in ligula faucibus pharetra sed ut mauris.
+      Suspendisse id odio ligula. Pellentesque vehicula lacus
+      in turpis pretium semper. Nunc vitae erat vel nulla ornare dapibus.
+      Maecenas vitae laoreet nulla. Fusce sollicitudin tempus odio egestas dapibus. 
+    author:          Administrator
+    is_news:         <?php if($is_news == 'true'){ $is_news = 'false'; }else{ $is_news = 'true'; } echo $is_news."\n"; ?> 
+    is_public:       true
+    token:           <?php echo md5(rand(1111,9999).time())."\n" ?>
+<?php endfor; ?>
+<?php endforeach; ?>

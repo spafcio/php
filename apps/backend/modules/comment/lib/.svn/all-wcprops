@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/apps/backend/modules/comment/lib
+END
+commentGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15/trunk/apps/backend/modules/comment/lib/commentGeneratorConfiguration.class.php
+END
+commentGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15/trunk/apps/backend/modules/comment/lib/commentGeneratorHelper.class.php
+END

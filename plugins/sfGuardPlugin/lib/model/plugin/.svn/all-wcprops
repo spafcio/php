@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin
+END
+PluginsfGuardUserPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserPeer.php
+END
+PluginsfGuardUserGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserGroup.php
+END
+PluginsfGuardGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardGroup.php
+END
+PluginsfGuardUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUser.php
+END
+PluginsfGuardGroupPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardGroupPermissionPeer.php
+END
+PluginsfGuardUserPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserPermissionPeer.php
+END
+PluginsfGuardRememberKeyPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardRememberKeyPeer.php
+END
+PluginsfGuardPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardPermissionPeer.php
+END
+PluginsfGuardGroupPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardGroupPermission.php
+END
+PluginsfGuardUserGroupPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserGroupPeer.php
+END
+PluginsfGuardUserPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserPermission.php
+END
+PluginsfGuardRememberKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardRememberKey.php
+END
+PluginsfGuardGroupPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardGroupPeer.php
+END
+PluginsfGuardPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardPermission.php
+END

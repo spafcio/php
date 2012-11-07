@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/config/propel.ini
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/config/schema.yml
+END
+vhost.sample
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/config/vhost.sample
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/config/rsync_exclude.txt
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/config/ProjectConfiguration.class.php
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/generator/skeleton/project/config/properties.ini
+END

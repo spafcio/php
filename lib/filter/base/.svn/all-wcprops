@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/26/trunk/lib/filter/base
+END
+BaseRiseCategoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/lib/filter/base/BaseRiseCategoryFormFilter.class.php
+END
+BaseFormFilterPropel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/lib/filter/base/BaseFormFilterPropel.class.php
+END
+BaseRiseTodoListFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/lib/filter/base/BaseRiseTodoListFormFilter.class.php
+END
+BaseRiseCommentFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/lib/filter/base/BaseRiseCommentFormFilter.class.php
+END
+BaseRiseCategoryAffiliateFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/lib/filter/base/BaseRiseCategoryAffiliateFormFilter.class.php
+END
+BaseRiseArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26/trunk/lib/filter/base/BaseRiseArticleFormFilter.class.php
+END
+BaseRiseMenuItemFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/lib/filter/base/BaseRiseMenuItemFormFilter.class.php
+END
+BaseRiseMenuFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/lib/filter/base/BaseRiseMenuFormFilter.class.php
+END
+BaseRiseAffiliateFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/lib/filter/base/BaseRiseAffiliateFormFilter.class.php
+END

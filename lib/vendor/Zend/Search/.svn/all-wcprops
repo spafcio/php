@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search
+END
+Lucene.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search/Lucene.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search/Exception.php
+END

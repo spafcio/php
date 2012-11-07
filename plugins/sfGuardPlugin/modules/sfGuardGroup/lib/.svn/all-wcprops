@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/modules/sfGuardGroup/lib
+END
+sfGuardGroupGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/modules/sfGuardGroup/lib/sfGuardGroupGeneratorHelper.class.php
+END
+BasesfGuardGroupActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/modules/sfGuardGroup/lib/BasesfGuardGroupActions.class.php
+END
+sfGuardGroupGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/modules/sfGuardGroup/lib/sfGuardGroupGeneratorConfiguration.class.php
+END

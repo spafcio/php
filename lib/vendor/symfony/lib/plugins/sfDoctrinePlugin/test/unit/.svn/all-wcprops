@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/unit
+END
+sfDoctrineColumnTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/unit/sfDoctrineColumnTest.php
+END
+sfDoctrineDatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/unit/sfDoctrineDatabaseTest.php
+END

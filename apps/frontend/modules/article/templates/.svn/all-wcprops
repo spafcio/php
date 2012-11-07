@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates
+END
+searchSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates/searchSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates/indexSuccess.php
+END
+_menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates/_menu.php
+END
+_articles.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates/_articles.php
+END
+_bookmarks.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates/_bookmarks.php
+END
+_main_post.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates/_main_post.php
+END
+showSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates/showSuccess.php
+END
+_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/apps/frontend/modules/article/templates/_list.php
+END
+_ul_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/apps/frontend/modules/article/templates/_ul_list.php
+END

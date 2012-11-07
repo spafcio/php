@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26/trunk/test/functional/frontend
+END
+pageActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/test/functional/frontend/pageActionsTest.php
+END
+categoryActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/test/functional/frontend/categoryActionsTest.php
+END
+commentActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26/trunk/test/functional/frontend/commentActionsTest.php
+END
+articleActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/test/functional/frontend/articleActionsTest.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/etc/xsl
+END
+log.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/etc/xsl/log.xsl
+END
+phpunit2-noframes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/etc/xsl/phpunit2-noframes.xsl
+END
+coverage-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/etc/xsl/coverage-frames.xsl
+END
+str.replace.function.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/test/etc/xsl/str.replace.function.xsl
+END

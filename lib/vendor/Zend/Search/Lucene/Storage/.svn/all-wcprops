@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search/Lucene/Storage
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search/Lucene/Storage/File.php
+END
+Directory.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search/Lucene/Storage/Directory.php
+END

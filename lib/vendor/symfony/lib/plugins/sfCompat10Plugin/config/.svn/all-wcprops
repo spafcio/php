@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/config
+END
+mailer.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/config/mailer.yml
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/config/config.php
+END

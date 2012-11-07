@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/widget
+END
+sfWidgetFormPropelChoiceMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/widget/sfWidgetFormPropelChoiceMany.class.php
+END
+sfWidgetFormPropelSelect.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/widget/sfWidgetFormPropelSelect.class.php
+END
+sfWidgetFormPropelSelectMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/widget/sfWidgetFormPropelSelectMany.class.php
+END
+sfWidgetFormPropelChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/widget/sfWidgetFormPropelChoice.class.php
+END

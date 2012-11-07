@@ -1,0 +1,24 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           RiseMenu
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          rise_menu
+    with_propel_route:     1
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        object_actions:
+          _edit:           ~
+          _delete:         ~
+          show_items:      ~
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/bootstrap
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/bootstrap/functional.php
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/bootstrap/unit.php
+END

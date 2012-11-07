@@ -1,0 +1,16 @@
+all:
+  .array:
+    excepting_categories:        [ tutorials ]
+    categories_on_homepage:      [ nowości, pluginy, błędy, poprawki ]
+
+#categories
+  main_category:                 informations
+
+#index
+  nojs_bookmark_parameter:       indexMainNews
+  message_of_day_name:           Wiadomość dnia
+  main_news_num:                 4
+  max_articles_on_category:      5
+
+#menu
+  always_read_menu:              true

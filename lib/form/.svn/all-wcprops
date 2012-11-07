@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/26/trunk/lib/form
+END
+BackendRiseCommentForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/lib/form/BackendRiseCommentForm.class.php
+END
+RiseCategoryForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26/trunk/lib/form/RiseCategoryForm.class.php
+END
+RiseTodoListForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/lib/form/RiseTodoListForm.class.php
+END
+RiseCategoryAffiliateForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/lib/form/RiseCategoryAffiliateForm.class.php
+END
+RiseCommentForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26/trunk/lib/form/RiseCommentForm.class.php
+END
+RiseArticleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26/trunk/lib/form/RiseArticleForm.class.php
+END
+RiseMenuItemForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26/trunk/lib/form/RiseMenuItemForm.class.php
+END
+RiseMenuForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16/trunk/lib/form/RiseMenuForm.class.php
+END
+RiseAffiliateForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/16/trunk/lib/form/RiseAffiliateForm.class.php
+END
+BaseFormPropel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/trunk/lib/form/BaseFormPropel.class.php
+END

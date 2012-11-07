@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged
+END
+book.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/book.schema.xml
+END
+book_club_list.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/book_club_list.schema.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/build.properties
+END
+publisher.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/publisher.schema.xml
+END
+media.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/media.schema.xml
+END
+log.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/log.schema.xml
+END
+review.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/review.schema.xml
+END
+author.schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/author.schema.xml
+END
+runtime-conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/bookstore-packaged/runtime-conf.xml
+END

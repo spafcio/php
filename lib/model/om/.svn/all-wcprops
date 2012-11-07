@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/26/trunk/lib/model/om
+END
+BaseRiseCategoryAffiliatePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseCategoryAffiliatePeer.php
+END
+BaseRiseMenuItemPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseMenuItemPeer.php
+END
+BaseRiseArticlePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseArticlePeer.php
+END
+BaseRiseAffiliatePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseAffiliatePeer.php
+END
+BaseRiseTodoList.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseTodoList.php
+END
+BaseRiseComment.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseComment.php
+END
+BaseRiseMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseMenu.php
+END
+BaseRiseCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseCategory.php
+END
+BaseRiseTodoListPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseTodoListPeer.php
+END
+BaseRiseCommentPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseCommentPeer.php
+END
+BaseRiseMenuPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseMenuPeer.php
+END
+BaseRiseCategoryAffiliate.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseCategoryAffiliate.php
+END
+BaseRiseArticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseArticle.php
+END
+BaseRiseMenuItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseMenuItem.php
+END
+BaseRiseAffiliate.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseAffiliate.php
+END
+BaseRiseCategoryPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26/trunk/lib/model/om/BaseRiseCategoryPeer.php
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model
+END
+sfGuardGroupPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardGroupPermissionPeer.php
+END
+sfGuardRememberKeyPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardRememberKeyPeer.php
+END
+sfGuardUserPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardUserPermissionPeer.php
+END
+sfGuardPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardPermissionPeer.php
+END
+sfGuardGroupPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardGroupPermission.php
+END
+sfGuardUserPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardUserPermission.php
+END
+sfGuardRememberKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardRememberKey.php
+END
+sfGuardUserGroupPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardUserGroupPeer.php
+END
+sfGuardPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardPermission.php
+END
+sfGuardGroupPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardGroupPeer.php
+END
+sfGuardUserPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardUserPeer.php
+END
+sfGuardUserGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardUserGroup.php
+END
+sfGuardGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardGroup.php
+END
+sfGuardUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/model/sfGuardUser.php
+END

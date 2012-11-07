@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/form/base
+END
+BasesfGuardGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/form/base/BasesfGuardGroupForm.class.php
+END
+BasesfGuardUserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/form/base/BasesfGuardUserForm.class.php
+END
+BasesfGuardGroupPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/form/base/BasesfGuardGroupPermissionForm.class.php
+END
+BasesfGuardRememberKeyForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/form/base/BasesfGuardRememberKeyForm.class.php
+END
+BasesfGuardUserPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/form/base/BasesfGuardUserPermissionForm.class.php
+END
+BasesfGuardPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/form/base/BasesfGuardPermissionForm.class.php
+END
+BasesfGuardUserGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/form/base/BasesfGuardUserGroupForm.class.php
+END

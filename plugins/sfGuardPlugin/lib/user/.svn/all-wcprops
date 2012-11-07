@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/user
+END
+sfGuardSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/user/sfGuardSecurityUser.class.php
+END

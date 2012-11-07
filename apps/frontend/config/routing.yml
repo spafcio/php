@@ -1,0 +1,36 @@
+# default rules
+article_show:
+  url:            /news/:id/:category_slug/:title_slug.html
+  class:          sfPropelRoute
+  options:        { model: RiseArticle, type:  object }
+  param:          { module: article, action: show }
+  requirements:
+    id:           \d+
+    sf_method:    [get]
+category_show:
+  url:            /dzial/:id/:slug.html
+  class:          sfPropelRoute
+  options:        { model: RiseCategory, type: object }
+  param:          { module: category, action: show }
+  requirements:
+    id:           \d+
+    sf_method:    [get]
+comment:
+  class:          sfPropelRouteCollection
+  options:        { model: RiseComment }
+homepage:
+  url:            /
+  param:          { module: article, action: index }
+nojs_news_show:
+  url:            /:nojs_news.html
+  param:          { module: article, action: index }
+no_js_comment_delete:
+  url:            /delete/comment/:id
+  param:          { module: comment, action: delete } 
+
+#default_index:
+#  url:   /:module
+#  param: { action: index }
+#
+#default:
+#  url:   /:module/:action/*

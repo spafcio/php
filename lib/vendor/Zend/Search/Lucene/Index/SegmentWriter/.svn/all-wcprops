@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search/Lucene/Index/SegmentWriter
+END
+StreamWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search/Lucene/Index/SegmentWriter/StreamWriter.php
+END
+DocumentWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Search/Lucene/Index/SegmentWriter/DocumentWriter.php
+END

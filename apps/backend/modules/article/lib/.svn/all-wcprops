@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/apps/backend/modules/article/lib
+END
+articleGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15/trunk/apps/backend/modules/article/lib/articleGeneratorHelper.class.php
+END
+articleGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15/trunk/apps/backend/modules/article/lib/articleGeneratorConfiguration.class.php
+END

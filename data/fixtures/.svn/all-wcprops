@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/26/trunk/data/fixtures
+END
+01_menu.yml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26/trunk/data/fixtures/01_menu.yml
+END
+02_categories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26/trunk/data/fixtures/02_categories.yml
+END
+03_articles.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26/trunk/data/fixtures/03_articles.yml
+END
+fixtures.yml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/data/fixtures/fixtures.yml
+END
+05_comments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/data/fixtures/05_comments.yml
+END
+04_affiliates.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/data/fixtures/04_affiliates.yml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/licenses
+END
+LICENSE.ICU
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/licenses/LICENSE.ICU
+END
+LICENSE.prado
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/licenses/LICENSE.prado
+END
+LICENSE.lime
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/licenses/LICENSE.lime
+END

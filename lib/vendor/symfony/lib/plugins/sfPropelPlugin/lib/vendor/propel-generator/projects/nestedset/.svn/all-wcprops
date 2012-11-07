@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/nestedset
+END
+runtime-conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/nestedset/runtime-conf.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/nestedset/build.properties
+END
+nestedset-schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/projects/nestedset/nestedset-schema.xml
+END

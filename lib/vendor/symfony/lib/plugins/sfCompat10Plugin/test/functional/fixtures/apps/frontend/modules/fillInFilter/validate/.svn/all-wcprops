@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/fillInFilter/validate
+END
+update.yml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/fillInFilter/validate/update.yml
+END
+forward.yml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/fillInFilter/validate/forward.yml
+END

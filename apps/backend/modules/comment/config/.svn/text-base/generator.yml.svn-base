@@ -1,0 +1,23 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           RiseComment
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          rise_comment
+    with_propel_route:     1
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display:   [=title, =author, =email, =content, is_public, created_at]
+      filter:
+        display:   [article_id, author, email, content, is_public, created_at]
+      form:
+        class:     BackendRiseCommentForm
+      edit:    ~
+      new:     ~

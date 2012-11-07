@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/26/trunk/data/sql
+END
+sqldb.map
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/data/sql/sqldb.map
+END
+lib.model.schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26/trunk/data/sql/lib.model.schema.sql
+END
+plugins.sfGuardPlugin.lib.model.schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26/trunk/data/sql/plugins.sfGuardPlugin.lib.model.schema.sql
+END

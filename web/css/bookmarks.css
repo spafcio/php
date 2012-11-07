@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+.bookmarks ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-bottom-style: solid;
+	border-width: 1px;
+	border-color: #D5F796;
+}
+
+.bookmarks li {
+	margin: 0 0 10px 0;
+	display: inline;
+	padding: 0 30px 0 5px;
+	background-color: #D5F796;
+}
+
+.bookmarks .active {
+	margin: 0;
+	border-style: solid;
+	border-width: 1px;
+	border-bottom-color: #FFF;
+	border-top-color: #D5F796;
+	border-left-color: #D5F796;
+	border-right-color: #D5F796;
+	background-color: #FFF;	
+}

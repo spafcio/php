@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/modules/sfGuardPermission/lib
+END
+sfGuardPermissionGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/modules/sfGuardPermission/lib/sfGuardPermissionGeneratorConfiguration.class.php
+END
+sfGuardPermissionGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/modules/sfGuardPermission/lib/sfGuardPermissionGeneratorHelper.class.php
+END
+BasesfGuardPermissionActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/modules/sfGuardPermission/lib/BasesfGuardPermissionActions.class.php
+END

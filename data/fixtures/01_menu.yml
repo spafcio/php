@@ -1,0 +1,22 @@
+RiseMenu:
+  main: { name: main }
+  up:   { name: up   }
+RiseMenuItem:
+<?php for($i=1;$i<=5;$i+=2): ?>
+  Item_<?php echo $i ?>:
+    menu_id: main
+    title:   Example article <?php echo $i ?> as menu item
+    order:   <?php echo (($i-1)/2)."\n" ?>
+    url:     http://rise.localhost/frontend_dev.php/news/<?php echo $i+26; ?>/info/example-article-<?php echo $i ?>-of-informations-category.html ?>
+<?php endfor; ?>
+  Up_item1:
+    menu_id: up
+    title:   plugins
+    order:   4
+    url:     http://rise.localhost/frontend_dev.php/dzial/3/plugins.html
+
+  Up_item2:
+    menu_id: up
+    title:   community
+    order:   5
+    url:     http://rise.localhost/frontend_dev.php/dzial/2/community.html    

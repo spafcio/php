@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/26/trunk/lib/vendor/Zend
+END
+Mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Mime.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Exception.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Mail.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/lib/vendor/Zend/Loader.php
+END

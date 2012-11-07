@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/frontend/modules/autoload/templates
+END
+myAutoloadSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/frontend/modules/autoload/templates/myAutoloadSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/frontend/modules/autoload/templates/indexSuccess.php
+END

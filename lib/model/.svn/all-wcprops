@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/26/trunk/lib/model
+END
+RiseTodoListPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/lib/model/RiseTodoListPeer.php
+END
+RiseCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/lib/model/RiseCategory.php
+END
+RiseCommentPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/lib/model/RiseCommentPeer.php
+END
+RiseMenuPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/lib/model/RiseMenuPeer.php
+END
+RiseCategoryAffiliate.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/lib/model/RiseCategoryAffiliate.php
+END
+RiseMenuItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/lib/model/RiseMenuItem.php
+END
+RiseArticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26/trunk/lib/model/RiseArticle.php
+END
+RiseAffiliate.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26/trunk/lib/model/RiseAffiliate.php
+END
+RiseCategoryPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/26/trunk/lib/model/RiseCategoryPeer.php
+END
+RiseCategoryAffiliatePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/lib/model/RiseCategoryAffiliatePeer.php
+END
+RiseArticlePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26/trunk/lib/model/RiseArticlePeer.php
+END
+RiseMenuItemPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/26/trunk/lib/model/RiseMenuItemPeer.php
+END
+RiseAffiliatePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/lib/model/RiseAffiliatePeer.php
+END
+RiseTodoList.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/lib/model/RiseTodoList.php
+END
+RiseComment.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/trunk/lib/model/RiseComment.php
+END
+RiseMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/13/trunk/lib/model/RiseMenu.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/plugins/sfAutoloadPlugin/lib
+END
+ExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/plugins/sfAutoloadPlugin/lib/ExtendMe.class.php
+END
+BaseExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/plugins/sfAutoloadPlugin/lib/BaseExtendMe.class.php
+END

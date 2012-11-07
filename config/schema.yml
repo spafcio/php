@@ -1,0 +1,60 @@
+propel:
+  rise_article:
+    id:                   ~
+    category_id:          { type: integer, foreignTable: rise_category, foreignReference: id, required: true, onDelete: cascade }
+    title:                { type: varchar(255), required: true }
+    image:                { type: varchar(255) }
+    short:                { type: varchar(255) }
+    content:              { type: longvarchar, required: true }
+    author:               { type: varchar(255), required: true }
+    is_main_of_category:  { type: boolean, required: true, default: 0 }
+    is_main_of_day:       { type: boolean, required: true, default: 0 }
+    is_news:              { type: boolean, required: true, default: 0 }
+    is_public:            { type: boolean, required: true, default: 0 }
+    is_intrash:           { type: boolean, required: true, default: 0 }
+    token:                { type: varchar(255), required: true, index: unique }
+    root:                 { type: varchar(255) }
+    created_at:           ~
+    updated_at:           ~
+  rise_category:
+    id:           ~
+    name:         { type: varchar(255), required: true }
+    slug:         { type: varchar(255), required: true }
+  rise_menu:
+    id:           ~
+    name:         { type: varchar(255), required: true }
+    title:        { type: varchar(255) }
+    is_activated: { type: boolean, required: true, default: 1 }
+  rise_menu_item:
+    id:           ~
+    menu_id:      { type: integer, foreignTable: rise_menu, foreignReference: id, required: true, onDelete: cascade }
+    order:        { type: integer }
+    title:        { type: varchar(255), required: true }
+    url:          { type: varchar(255), required: true }
+    article_id:   { type: integer, foreignTable: rise_article, foreignReference: id, onDelete: cascade }
+    category_id:  { type: integer, foreignTable: rise_category, foreignReference: id, onDelete: cascade }
+  rise_affiliate:
+    id:           ~
+    url:          { type: varchar(255), required: true }
+    email:        { type: varchar(255), required: true, index: unique }
+    token:        { type: varchar(255), required: true }
+    is_active:    { type: boolean, required: true, default: 0 }
+    created_at:   ~
+  rise_category_affiliate:
+    category_id:  { type: integer, foreignTable: rise_category, foreignReference: id, required: true, primaryKey: true, onDelete: cascade }
+    affiliate_id: { type: integer, foreignTable: rise_affiliate, foreignReference: id, required: true, primaryKey: true, onDelete: cascade }
+  rise_comment:
+    id:           ~
+    article_id:   { type: integer, foreignTable: rise_article, foreignReference: id, required: true }
+    author:       { type: varchar(255), required: true }
+    email:        { type: varchar(255), required: true }
+    content:      { type: longvarchar, required: true }
+    is_public:    { type: boolean, required: true, default: 0 }
+    token:        { type: varchar(255), required: true, index: unique }
+    created_at:   ~
+  rise_todo_list:
+    id:           ~
+    name:         { type: varchar(255), required: true }
+    content:      { type: varchar(255), required: true }
+    is_done:      { type: boolean, required: true, default: 0 }
+    created_at:   ~

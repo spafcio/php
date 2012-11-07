@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine
+END
+SubscriptionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/SubscriptionForm.class.php
+END
+GroupPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/GroupPermissionForm.class.php
+END
+UniqueTestForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UniqueTestForm.class.php
+END
+UserPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UserPermissionForm.class.php
+END
+PermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/PermissionForm.class.php
+END
+UserGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UserGroupForm.class.php
+END
+GroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/GroupForm.class.php
+END
+myDoctrineRecordForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/myDoctrineRecordForm.class.php
+END
+UserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UserForm.class.php
+END
+ProfileForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ProfileForm.class.php
+END
+BaseFormDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/BaseFormDoctrine.class.php
+END
+AuthorForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/AuthorForm.class.php
+END
+ArticleTranslationForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ArticleTranslationForm.class.php
+END
+ArticleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ArticleForm.class.php
+END

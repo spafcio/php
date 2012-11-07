@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/26/trunk/lib/model/map
+END
+RiseTodoListMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26/trunk/lib/model/map/RiseTodoListMapBuilder.php
+END
+RiseCategoryAffiliateMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26/trunk/lib/model/map/RiseCategoryAffiliateMapBuilder.php
+END
+RiseCommentMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26/trunk/lib/model/map/RiseCommentMapBuilder.php
+END
+RiseMenuItemMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26/trunk/lib/model/map/RiseMenuItemMapBuilder.php
+END
+RiseArticleMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26/trunk/lib/model/map/RiseArticleMapBuilder.php
+END
+RiseAffiliateMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26/trunk/lib/model/map/RiseAffiliateMapBuilder.php
+END
+RiseMenuMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26/trunk/lib/model/map/RiseMenuMapBuilder.php
+END
+RiseCategoryMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26/trunk/lib/model/map/RiseCategoryMapBuilder.php
+END

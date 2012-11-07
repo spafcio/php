@@ -1,0 +1,92 @@
+10
+
+dir
+26
+http://risecms.googlecode.com/svn/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib
+http://risecms.googlecode.com/svn
+
+
+
+2009-07-05T21:59:45.063954Z
+2
+t.tarnowski90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9afaa0f2-6997-11de-bb38-9f61fe354615
+
+cache
+dir
+
+config
+dir
+
+validator
+dir
+
+filter
+dir
+
+sfMail.class.php
+file
+
+
+
+
+2012-11-07T10:10:43.890307Z
+851bdced7a73156ca4ffc0eaed7c46c6
+2009-07-05T21:59:45.063954Z
+2
+t.tarnowski90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7875
+
+request
+dir
+
+view
+dir
+
+bridge
+dir
+
+vendor
+dir
+
+util
+dir
+
+exception
+dir
+

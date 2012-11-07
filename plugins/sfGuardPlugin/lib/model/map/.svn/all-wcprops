@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/map
+END
+sfGuardUserMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/map/sfGuardUserMapBuilder.php
+END
+sfGuardGroupPermissionMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/map/sfGuardGroupPermissionMapBuilder.php
+END
+sfGuardRememberKeyMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/map/sfGuardRememberKeyMapBuilder.php
+END
+sfGuardUserPermissionMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/map/sfGuardUserPermissionMapBuilder.php
+END
+sfGuardPermissionMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/map/sfGuardPermissionMapBuilder.php
+END
+sfGuardUserGroupMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/map/sfGuardUserGroupMapBuilder.php
+END
+sfGuardGroupMapBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/map/sfGuardGroupMapBuilder.php
+END

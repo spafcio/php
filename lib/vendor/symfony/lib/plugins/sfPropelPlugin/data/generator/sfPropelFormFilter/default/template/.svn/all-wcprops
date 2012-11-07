@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelFormFilter/default/template
+END
+sfPropelFormFilterTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelFormFilter/default/template/sfPropelFormFilterTemplate.php
+END
+sfPropelFormFilterBaseTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelFormFilter/default/template/sfPropelFormFilterBaseTemplate.php
+END
+sfPropelFormFilterGeneratedTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelFormFilter/default/template/sfPropelFormFilterGeneratedTemplate.php
+END

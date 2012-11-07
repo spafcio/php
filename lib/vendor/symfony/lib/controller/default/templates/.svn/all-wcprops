@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php
+END
+disabledSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/disabledSuccess.php
+END
+loginSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/loginSuccess.php
+END
+defaultLayout.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php
+END
+error404Success.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/error404Success.php
+END
+moduleSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/moduleSuccess.php
+END
+secureSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/secureSuccess.php
+END

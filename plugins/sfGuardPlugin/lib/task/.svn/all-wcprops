@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/task
+END
+sfGuardCreateUserTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/task/sfGuardCreateUserTask.class.php
+END
+sfGuardAddGroupTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/task/sfGuardAddGroupTask.class.php
+END
+sfGuardCreateAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/task/sfGuardCreateAdminTask.class.php
+END
+sfGuardAddPermissionTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/task/sfGuardAddPermissionTask.class.php
+END

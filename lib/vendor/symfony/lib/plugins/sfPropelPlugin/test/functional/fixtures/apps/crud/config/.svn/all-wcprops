@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/factories.yml
+END
+crudConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/crudConfiguration.class.php
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/settings.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/cache.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/security.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/routing.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/crud/config/view.yml
+END

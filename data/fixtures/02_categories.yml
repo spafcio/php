@@ -1,0 +1,6 @@
+RiseCategory:
+  informations:    { name: informations, slug: info }
+  community:       { name: community, slug: community }  
+  plugins:         { name: plugins, slug: plugins }  
+  errors:          { name: errors, slug: errors }
+  patches:         { name: patches, slug: patches }

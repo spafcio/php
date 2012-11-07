@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26/trunk/apps/frontend/modules/comment/templates
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/18/trunk/apps/frontend/modules/comment/templates/indexSuccess.php
+END
+newSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18/trunk/apps/frontend/modules/comment/templates/newSuccess.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26/trunk/apps/frontend/modules/comment/templates/_form.php
+END
+showSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/18/trunk/apps/frontend/modules/comment/templates/showSuccess.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26/trunk/apps/frontend/modules/comment/templates/_view.php
+END
+deleteSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/apps/frontend/modules/comment/templates/deleteSuccess.php
+END
+createSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/apps/frontend/modules/comment/templates/createSuccess.php
+END
+_no-moderated.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/apps/frontend/modules/comment/templates/_no-moderated.php
+END
+editSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/18/trunk/apps/frontend/modules/comment/templates/editSuccess.php
+END

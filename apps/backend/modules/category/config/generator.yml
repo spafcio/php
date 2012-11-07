@@ -1,0 +1,27 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           RiseCategory
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          rise_category
+    with_propel_route:     1
+
+    config:
+      actions: ~
+      fields:
+        name: { label: Nazwa }
+        slug: { label: Slug, help: Skrócona wersja użyta w URL w postaci bez polskich znaków, spacji itp... }
+      list:
+        title: Edycja kategorii
+        display: [=name, =slug]
+      filter:
+        display: [name, slug]
+      form:    ~
+      edit:
+        title: Edytuj pojedynczą kategorie
+      new:
+        title: Dodaj nową kategorie

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/cache/templates
+END
+layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/cache/templates/layout.php
+END
+image.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/project/apps/cache/templates/image.php
+END

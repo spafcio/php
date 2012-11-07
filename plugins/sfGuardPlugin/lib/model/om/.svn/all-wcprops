@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om
+END
+BasesfGuardGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardGroup.php
+END
+BasesfGuardUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardUser.php
+END
+BasesfGuardGroupPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardGroupPermissionPeer.php
+END
+BasesfGuardRememberKeyPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardRememberKeyPeer.php
+END
+BasesfGuardUserPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardUserPermissionPeer.php
+END
+BasesfGuardPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardPermissionPeer.php
+END
+BasesfGuardGroupPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardGroupPermission.php
+END
+BasesfGuardUserGroupPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardUserGroupPeer.php
+END
+BasesfGuardUserPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardUserPermission.php
+END
+BasesfGuardRememberKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardRememberKey.php
+END
+BasesfGuardGroupPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardGroupPeer.php
+END
+BasesfGuardPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardPermission.php
+END
+BasesfGuardUserPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardUserPeer.php
+END
+BasesfGuardUserGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/plugins/sfGuardPlugin/lib/model/om/BasesfGuardUserGroup.php
+END

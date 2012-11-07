@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/upgrade1.2
+END
+sfConfigurationUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/upgrade1.2/sfConfigurationUpgrade.class.php
+END
+sfPropelIniUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/upgrade1.2/sfPropelIniUpgrade.class.php
+END
+sfPluginAssetsUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/upgrade1.2/sfPluginAssetsUpgrade.class.php
+END
+sfFactories12Upgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/upgrade1.2/sfFactories12Upgrade.class.php
+END
+sfPropel13Upgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/upgrade1.2/sfPropel13Upgrade.class.php
+END

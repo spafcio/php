@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/bridge
+END
+sfZendFrameworkBridge.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/bridge/sfZendFrameworkBridge.class.php
+END
+sfEzComponentsBridge.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfCompat10Plugin/lib/bridge/sfEzComponentsBridge.class.php
+END

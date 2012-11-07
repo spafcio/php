@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/filter
+END
+sfGuardUserGroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/filter/sfGuardUserGroupFormFilter.class.php
+END
+sfGuardGroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/filter/sfGuardGroupFormFilter.class.php
+END
+sfGuardUserFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/filter/sfGuardUserFormFilter.class.php
+END
+sfGuardGroupPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/filter/sfGuardGroupPermissionFormFilter.class.php
+END
+sfGuardUserPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/filter/sfGuardUserPermissionFormFilter.class.php
+END
+sfGuardRememberKeyFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/filter/sfGuardRememberKeyFormFilter.class.php
+END
+sfGuardPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/plugins/sfGuardPlugin/lib/filter/sfGuardPermissionFormFilter.class.php
+END

@@ -1,0 +1,78 @@
+rise_menu_item:
+  class: sfPropelRouteCollection
+  options:
+    model:                RiseMenuItem
+    module:               rise_menu_item
+    prefix_path:          rise_menu_item
+    column:               id
+    with_wildcard_routes: true
+    
+list_menu_items_by_id:
+  url:   /show/menu/items/:menu_id
+  class: sfPropelRoute
+  options:
+    model:                RiseMenuItem
+    type:                 object
+  param:
+    module:               rise_menu_item
+    action:               indexByMenuId
+  requirements:
+    menu_id:              \d+
+    sf_method:            [get]
+
+rise_menu:
+  class: sfPropelRouteCollection
+  options:
+    model:                RiseMenu
+    module:               rise_menu
+    prefix_path:          rise_menu
+    column:               id
+    with_wildcard_routes: true
+
+rise_comment:
+  class: sfPropelRouteCollection
+  options:
+    model:                RiseComment
+    module:               comment
+    prefix_path:          comment
+    column:               id
+    with_wildcard_routes: true
+
+rise_category:
+  class: sfPropelRouteCollection
+  options:
+    model:                RiseCategory
+    module:               category
+    prefix_path:          category
+    column:               id
+    with_wildcard_routes: true
+
+rise_article:
+  class: sfPropelRouteCollection
+  options:
+    model:                RiseArticle
+    module:               article
+    prefix_path:          article
+    column:               id
+    with_wildcard_routes: true
+
+rise_menu_generate:
+  url:          /generate/menu/item/:route_name/:object_name/:id.ajax
+  class:        sfRequestRoute
+  param:
+    module:     rise_menu_generator
+    action:     generate
+  requirements:
+    id:         \d+
+ 
+# default rules
+homepage:
+  url:   /
+  param: { module: article, action: index }
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

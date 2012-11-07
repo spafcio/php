@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/filter
+END
+sfRenderingFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/filter/sfRenderingFilter.class.php
+END
+sfFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/filter/sfFilter.class.php
+END
+sfFilterChain.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/filter/sfFilterChain.class.php
+END
+sfExecutionFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/filter/sfExecutionFilter.class.php
+END
+sfCacheFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/filter/sfCacheFilter.class.php
+END
+sfCommonFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/filter/sfCommonFilter.class.php
+END
+sfBasicSecurityFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/26/trunk/apps/backend/config
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/apps/backend/config/factories.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/apps/backend/config/settings.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/apps/backend/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/apps/backend/config/cache.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/apps/backend/config/security.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22/trunk/apps/backend/config/routing.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/apps/backend/config/filters.yml
+END
+backendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/apps/backend/config/backendConfiguration.class.php
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/apps/backend/config/view.yml
+END
